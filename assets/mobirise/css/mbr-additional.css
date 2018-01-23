@@ -1552,6 +1552,25 @@ body {
     display: none;
   }
 }
+.cid-qHw6jJGHoO {
+  background-image: url("../../../assets/images/background1.jpg");
+}
+.cid-qHw6jJGHoO .mbr-overlay {
+  background: #c33764;
+  background: linear-gradient(#c33764 -10%, #1d2671 75%);
+}
+.cid-qHw6jJGHoO .mbr-section-title {
+  margin: 0;
+}
+.cid-qHw6jJGHoO .separator {
+  background-color: #ffffff;
+  color: #ffffff;
+  align: center;
+  height: 2px;
+  max-width: 125px;
+  margin-left: auto;
+  margin-right: auto;
+}
 .cid-qERV8lO450 {
   padding-top: 60px;
   padding-bottom: 60px;
